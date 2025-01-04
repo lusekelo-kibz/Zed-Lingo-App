@@ -128,3 +128,19 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# Flutter
+build/
+*.lock
+.idea/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+
+# Python (Flask)
+venv/
+__pycache__/
+*.pyc
+instance/
+.env
